@@ -1,0 +1,33 @@
+{
+	"name": "use_referred_state",
+	"version": "5.2.6",
+	"description": "This hook is a combination of states and refs. In React, you can't change a state value inside a function like a setInterval. This hook solves this problem.",
+	"main": "index.js",
+	"keywords": [
+		"react",
+		"hook",
+		"hooks",
+		"react-hooks",
+		"javascript",
+		"client",
+		"web",
+		"browser",
+		"state",
+		"states",
+		"reference",
+		"references",
+		"ref",
+		"refs",
+		"react.js",
+		"react-js",
+		"reactjs"
+	],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"@types/react": "^16.9.43",
+		"react": "^17.0.1",
+		"react-dom": "^17.0.1"
+	},
+	"devDependencies": {}
+}
